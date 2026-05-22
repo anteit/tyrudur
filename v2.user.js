@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name         WPlace Smart Bot Line Renderer V6
 // @namespace    http://tampermonkey.net/
